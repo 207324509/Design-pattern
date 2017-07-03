@@ -7,3 +7,4 @@ java设计模式
 5. 原型模式（Prototype Pattern）
 6. 适配器模式（Adapter Pattern）
 7. 桥接模式（Bridge Pattern）
+8. 过滤器模式（Filter Pattern）
