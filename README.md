@@ -6,3 +6,4 @@ java设计模式
 4. 建造者模式（Builder Pattern）
 5. 原型模式（Prototype Pattern）
 6. 适配器模式（Adapter Pattern）
+7. 桥接模式（Bridge Pattern）
