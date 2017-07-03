@@ -8,3 +8,4 @@ java设计模式
 6. 适配器模式（Adapter Pattern）
 7. 桥接模式（Bridge Pattern）
 8. 过滤器模式（Filter Pattern）
+9. 组合模式（Composite Pattern）
